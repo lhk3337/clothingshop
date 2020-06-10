@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #373c45;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  margin-top: 8vh;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.menu {
+  width: 650px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.menu .clothes_menu {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+.menu .clothes_menu:hover {
+}
+.menu .clothes_menu img {
+  height: 80px;
+  width: 80px;
+  overflow: hidden;
+  cursor: pointer;
+  /* transform: scale(1); */
+}
+.menu .clothes_menu img:hover {
+  transform: scale(1.2);
+}
+.menu .color_btn {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+.menu .color_btn .btn {
+  width: 80px;
+  height: 60px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 3px;
+  border: none;
+  padding-top: 20px;
+}
+.menu .color_btn .btn:hover {
+  transform: scale(1.2);
+}
+.menu .color_btn .blue {
+  background: #447fb6;
+}
+.menu .color_btn .yellow {
+  width: 100px;
+  height: 60px;
+  background: #f2b928;
+}
+.menu .color_btn .pink {
+  background: #f16479;
+}
+
+.clothes_list {
+  width: 65vw;
+}
+.clothes_list ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+.clothes_list ul li {
+  height: 100px;
+  border-radius: 3px;
+  background: white;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+.clothes_list ul li img {
+  width: 80px;
+  height: 80px;
+  margin-right: 30px;
+}
+@media screen and (max-width: 670px) {
+  .container .menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .color_btn {
+    margin-top: 30px;
+  }
+}
