@@ -81,6 +81,10 @@ body {
 
 .clothes_list {
   width: 65vw;
+  height: 50vh;
+  overflow: scroll;
+  scroll-behavior: smooth;
+  scrollbar-color: #e8e8e8 transparent;
 }
 .clothes_list ul {
   list-style: none;
