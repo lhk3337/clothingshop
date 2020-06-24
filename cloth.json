@@ -1,35 +1,35 @@
 [
   {
-    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/pink_p.png",
-    "itemNo": 1,
-    "title": "pants",
-    "gender": "female",
-    "size": "small",
-    "color": "pink"
-  },
-  {
     "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/pink_s.png",
-    "itemNo": 2,
+    "itemNo": 1,
     "title": "skirt",
     "gender": "female",
     "size": "small",
     "color": "pink"
   },
   {
-    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/pink_t.png",
-    "itemNo": 3,
-    "title": "tshirt",
-    "gender": "female",
-    "size": "small",
-    "color": "pink"
-  },
-  {
     "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/yellow_p.png",
-    "itemNo": 4,
+    "itemNo": 2,
     "title": "pants",
     "gender": "man",
     "size": "large",
     "color": "yellow"
+  },
+  {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/blue_t.png",
+    "itemNo": 3,
+    "title": "tshirt",
+    "gender": "female",
+    "size": "small",
+    "color": "blue"
+  },
+  {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/pink_p.png",
+    "itemNo": 4,
+    "title": "pants",
+    "gender": "female",
+    "size": "small",
+    "color": "pink"
   },
   {
     "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/yellow_s.png",
@@ -40,20 +40,20 @@
     "color": "yellow"
   },
   {
-    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/yellow_t.png",
-    "itemNo": 6,
-    "title": "tshirt",
-    "gender": "man",
-    "size": "large",
-    "color": "yellow"
-  },
-  {
     "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/blue_p.png",
-    "itemNo": 7,
+    "itemNo": 6,
     "title": "pants",
     "gender": "man",
     "size": "small",
     "color": "blue"
+  },
+  {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/yellow_t.png",
+    "itemNo": 7,
+    "title": "tshirt",
+    "gender": "man",
+    "size": "large",
+    "color": "yellow"
   },
   {
     "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/blue_s.png",
@@ -64,11 +64,11 @@
     "color": "blue"
   },
   {
-    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/blue_t.png",
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/pink_t.png",
     "itemNo": 9,
     "title": "tshirt",
     "gender": "female",
     "size": "small",
-    "color": "blue"
+    "color": "pink"
   }
 ]
