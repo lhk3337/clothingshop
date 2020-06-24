@@ -1,6 +1,6 @@
 [
   {
-    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/blue_p.png",
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/pink_p.png",
     "itemNo": 1,
     "title": "pants",
     "gender": "female",
@@ -8,20 +8,23 @@
     "color": "pink"
   },
   {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/pink_s.png",
     "itemNo": 2,
     "title": "skirt",
     "gender": "female",
     "size": "small",
-    "color": "blue"
+    "color": "pink"
   },
   {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/pink_t.png",
     "itemNo": 3,
     "title": "tshirt",
     "gender": "female",
     "size": "small",
-    "color": "blue"
+    "color": "pink"
   },
   {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/yellow_p.png",
     "itemNo": 4,
     "title": "pants",
     "gender": "man",
@@ -29,6 +32,7 @@
     "color": "yellow"
   },
   {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/yellow_s.png",
     "itemNo": 5,
     "title": "skirt",
     "gender": "female",
@@ -36,6 +40,7 @@
     "color": "yellow"
   },
   {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/yellow_t.png",
     "itemNo": 6,
     "title": "tshirt",
     "gender": "man",
@@ -43,6 +48,7 @@
     "color": "yellow"
   },
   {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/blue_p.png",
     "itemNo": 7,
     "title": "pants",
     "gender": "man",
@@ -50,6 +56,7 @@
     "color": "blue"
   },
   {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/blue_s.png",
     "itemNo": 8,
     "title": "skirt",
     "gender": "female",
@@ -57,6 +64,7 @@
     "color": "blue"
   },
   {
+    "picture": "https://raw.githubusercontent.com/lhk3337/clothingshop/master/imgs/blue_t.png",
     "itemNo": 9,
     "title": "tshirt",
     "gender": "female",
